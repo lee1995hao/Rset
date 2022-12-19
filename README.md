@@ -1,2 +1,2 @@
 # Rset
-data <- hhhhhh
+R code
