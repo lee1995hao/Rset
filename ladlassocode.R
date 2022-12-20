@@ -70,5 +70,3 @@ iialcad <- function(y, x.data, a){
 
 
 
-
-
